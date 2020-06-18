@@ -1,0 +1,20 @@
+.hello {
+    align-items: center;
+  }
+
+  .input-image {
+    width: "150px";
+    height: "150px";
+    border-radius: "50%";
+    object-fit: "cover";
+    object-position: "center";
+    border: " 1px dashed";
+  }
+
+  .thumbs-container {
+    width: "150px";
+    height: "150px";
+    border-radius: "50%";
+    object-fit: "cover";
+    object-position: "center";
+  }
